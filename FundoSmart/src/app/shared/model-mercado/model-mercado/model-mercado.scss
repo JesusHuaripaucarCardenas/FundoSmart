@@ -1,0 +1,381 @@
+.formulario-mercado {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1919px;
+  min-height: 944px;
+  position: relative;
+}
+
+.formulario-mercado .text-wrapper {
+  position: absolute;
+  top: 93px;
+  left: 792px;
+  width: 317px;
+  font-family: "Kay Pho Du-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.formulario-mercado .forms-mercado {
+  position: absolute;
+  top: 193px;
+  left: 62px;
+  width: 445px;
+  height: 52px;
+}
+
+.formulario-mercado .conts-mercado {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 443px;
+  height: 52px;
+  background-color: #229935;
+  border-radius: 90px;
+}
+
+.formulario-mercado .mercado {
+  position: absolute;
+  top: 7px;
+  left: 173px;
+  width: 125px;
+  font-family: "Kay Pho Du-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .btn-agregar {
+  position: absolute;
+  top: 701px;
+  left: 1253px;
+  width: 341px;
+  height: 52px;
+}
+
+.formulario-mercado .cont-agregar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 339px;
+  height: 52px;
+  background-color: #229935;
+  border-radius: 90px;
+}
+
+.formulario-mercado .agregar {
+  position: absolute;
+  top: 7px;
+  left: 105px;
+  width: 129px;
+  font-family: "Kay Pho Du-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .formciudad {
+  position: absolute;
+  top: 303px;
+  left: 58px;
+  width: 366px;
+  height: 38px;
+  display: flex;
+  gap: 12px;
+}
+
+.formulario-mercado .ciudad {
+  margin-top: 1px;
+  width: 113px;
+  height: 24px;
+  font-family: "Kay Pho Du-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .cuarespuestauno {
+  width: 239px;
+  height: 38px;
+  background-color: #2299354c;
+  border-radius: 90px;
+}
+
+.formulario-mercado .formdistrito {
+  position: absolute;
+  top: 304px;
+  left: 472px;
+  width: 377px;
+  height: 38px;
+  display: flex;
+  gap: 6px;
+}
+
+.formulario-mercado .distrito {
+  margin-top: 1px;
+  width: 115px;
+  height: 24px;
+  font-family: "Kay Pho Du-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .cuarespuestados {
+  width: 254px;
+  height: 38px;
+  background-color: #2299354c;
+  border-radius: 90px;
+}
+
+.formulario-mercado .formnombremercado {
+  position: absolute;
+  top: 303px;
+  left: 891px;
+  width: 784px;
+  height: 38px;
+  display: flex;
+  gap: 6px;
+}
+
+.formulario-mercado .namemercado {
+  margin-top: 2px;
+  width: 294px;
+  height: 24px;
+  font-family: "Kay Pho Du-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .cuarespuestatres {
+  width: 482px;
+  height: 38px;
+  background-color: #2299354c;
+  border-radius: 90px;
+}
+
+.formulario-mercado .formnombre {
+  position: absolute;
+  top: 411px;
+  left: 489px;
+  width: 777px;
+  height: 38px;
+  display: flex;
+  gap: 29px;
+}
+
+.formulario-mercado .nombre {
+  width: 119px;
+  height: 25px;
+  font-family: "Kay Pho Du-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .cuarespuestacinco {
+  width: 627px;
+  height: 38px;
+  background-color: #2299354c;
+  border-radius: 90px;
+}
+
+.formulario-mercado .formapellido {
+  position: absolute;
+  top: 514px;
+  left: 62px;
+  width: 762px;
+  height: 38px;
+}
+
+.formulario-mercado .cuarespuestaseis {
+  position: absolute;
+  top: 0;
+  left: 133px;
+  width: 627px;
+  height: 38px;
+  background-color: #2299354c;
+  border-radius: 90px;
+}
+
+.formulario-mercado .apellido {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 141px;
+  font-family: "Kay Pho Du-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .formnpuesto {
+  position: absolute;
+  top: 405px;
+  left: 57px;
+  width: 380px;
+  height: 38px;
+  display: flex;
+  gap: 14px;
+}
+
+.formulario-mercado .cuarespuesta {
+  width: 191px;
+  height: 25px;
+  font-family: "Kay Pho Du-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: -0.60px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .cuarespuestacuatro {
+  width: 173px;
+  height: 38px;
+  background-color: #2299354c;
+  border-radius: 90px;
+}
+
+.formulario-mercado .formcelar {
+  position: absolute;
+  top: 610px;
+  left: 680px;
+  width: 512px;
+  height: 38px;
+  display: flex;
+  gap: 15px;
+}
+
+.formulario-mercado .celar {
+  margin-top: 3px;
+  width: 191px;
+  height: 24px;
+  font-family: "Kay Pho Du-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: -0.60px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .cuarespuestadiez {
+  width: 304px;
+  height: 38px;
+  background-color: #2299354c;
+  border-radius: 90px;
+}
+
+.formulario-mercado .forms-num-mercado {
+  position: absolute;
+  top: 610px;
+  left: 56px;
+  width: 549px;
+  height: 38px;
+}
+
+.formulario-mercado .cuarespuestaocho {
+  position: absolute;
+  top: 0;
+  left: 243px;
+  width: 304px;
+  height: 38px;
+  background-color: #2299354c;
+  border-radius: 90px;
+}
+
+.formulario-mercado .documento {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 244px;
+  font-family: "Kay Pho Du-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: -0.60px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .formtipdocuemnto {
+  position: absolute;
+  top: 514px;
+  left: 891px;
+  width: 580px;
+  height: 38px;
+  display: flex;
+  gap: 23px;
+}
+
+.formulario-mercado .tipdocumento {
+  margin-top: 1px;
+  width: 261px;
+  height: 24px;
+  font-family: "Kay Pho Du-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: -0.60px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.formulario-mercado .cuarespuestasiete {
+  width: 294px;
+  height: 38px;
+  background-color: #2299354c;
+  border-radius: 90px;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000; /* Encima de todo */
+}
+
+
+.formulario-mercado {
+  position: relative;
+  background-color: #ffffff;
+  width: 80%;
+  max-width: 1000px;
+  max-height: 90vh;
+  overflow-y: auto;
+  padding: 20px;
+  border-radius: 12px;
+}
